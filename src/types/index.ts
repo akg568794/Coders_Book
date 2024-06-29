@@ -5,4 +5,5 @@ export type Book ={
     name:string,
     image:StaticImageData,
     author:string,
+    description:string
 }
