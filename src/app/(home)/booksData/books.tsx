@@ -18,7 +18,7 @@ export const books = [
       name: 'Just as I Am',
       image: book2,
       author:"Cicely Tyson",
-      description:"'Just as I Am' is the memoir of the legendary actress Cicely Tyson, offering an intimate and heartfelt look into her remarkable life and career. In this powerful narrative, Tyson chronicles her journey from her humble beginnings in Harlem to becoming an iconic figure in American theater, film, and television. The memoir delves into her experiences as an African-American woman in Hollywood, the challenges she faced, and the trailblazing roles she played that redefined how Black women were portrayed on screen. With candid reflections on her personal life, including her tumultuous marriage to jazz musician Miles Davis and her spiritual growth, 'Just as I Am' is a testament to Tyson's resilience, grace, and unyielding dedication to her craft. The book is not only a celebration of her artistic achievements but also an inspiring story of empowerment, legacy, and the enduring impact of her contributions to the arts and civil rights."
+      description:"'Just as I Am' is the memoir of the legendary actress Cicely Tyson, offering an intimate and heartfelt look into her remarkable life and career. In this powerful narrative, Tyson chronicles her journey from her humble beginnings in Harlem to becoming an iconic figure in American theater, film, and television. The memoir delves into her experiences as an African-American woman in Hollywood, the challenges she faced, and the trailblazing roles she played that redefined how Black women were portrayed on screen."
     },
     {
       id:3,

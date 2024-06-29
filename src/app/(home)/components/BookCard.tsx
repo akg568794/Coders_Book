@@ -6,7 +6,7 @@ import React from 'react'
 const BookCard = ({book}:{book:Book}) => {
   return (
     <div className='flex gap-5 border p-5 shadow-md rounded'>
-        <Image className='rounded object-scale-down' src={book.image} alt={book.name} width={0} height={0} sizes='100vw' style={{width:'auto',height:'12rem'}}/>
+        <Image className='rounded object-contain' src={book.image} alt={book.name} width={0} height={0} sizes='100vw' style={{width:'auto',height:'180px'}}/>
         <div>
             <h2 className='line-clamp-2 text-xl font-bold text-primary-600 text-balance'>{book.name}</h2>
             <p className='font-bold text-primary-900 mt-1'>{book.author}</p>
